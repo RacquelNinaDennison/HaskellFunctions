@@ -1,0 +1,2 @@
+# HaskellFunctions
+Learning Haskell :) 
